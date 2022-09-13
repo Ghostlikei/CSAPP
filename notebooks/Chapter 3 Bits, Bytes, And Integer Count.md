@@ -77,6 +77,10 @@ $$
 0 1 1 0  6
 ```
 
+- **不对称性**
+
+根据这个规则，TMIN(0b10000000)取反还是自己，会有特例出现
+
 #### Why Should I Use Unsigned
 
 一个经典案例
@@ -116,3 +120,22 @@ for(i = cnt-2; i < cnt; i++)
 
 
 
+#### Byte Ordering
+
+- Little Endian(小端存储)
+
+x86, ARM processors
+
+**Least significant byte has lowest address**
+
+- Big Endian:
+
+Sun, Internet
+
+**Least significant byte has highest address**
+
+![Figure 2.3](../src/Figures/Figure 2.3.png)
+
+#### String
+
+char set with `0x00`at last
