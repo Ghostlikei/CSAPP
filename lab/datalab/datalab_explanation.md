@@ -10,24 +10,24 @@
 ## 目录
 
 - 本次lab一共13道题目，要求请见文件夹内作业参考文档，简要来说就是只使用**给定的运算符**，在**指定有限**步骤之内实现函数的功能，并且通过测试用例
-- <a href="result">测试结果</a>
+- <a href="#result">测试结果</a>
 
 ### 整数部分
-- <a href="bitXor">bitXor</a>
-- <a href="tmin">tmin</a>
-- <a href="isTmax">isTmax</a>
-- <a href="allOddBits">allOddBits</a>
-- <a href="negate">negate</a>
-- <a href="isAsciDigit">isAsciDigit</a>
-- <a href="conditional">conditional</a>
-- <a href="isLessOrEqual">isLessOrEqual</a>
-- <a href="logicalNeg">logicalNeg</a>
-- <a href="howManyBits">howManyBits</a>
+- <a href="#bitXor">bitXor</a>
+- <a href="#tmin">tmin</a>
+- <a href="#isTmax">isTmax</a>
+- <a href="#allOddBits">allOddBits</a>
+- <a href="#negate">negate</a>
+- <a href="#isAsciDigit">isAsciDigit</a>
+- <a href="#conditional">conditional</a>
+- <a href="#isLessOrEqual">isLessOrEqual</a>
+- <a href="#logicalNeg">logicalNeg</a>
+- <a href="#howManyBits">howManyBits</a>
 
 ### 浮点数部分
-- <a href="floatScale2">floatScale2</a>
-- <a href="floatFloat2Int">floatFloat2Int</a>
-- <a href="floatPower2">floatPower2</a>
+- <a href="#floatScale2">floatScale2</a>
+- <a href="#floatFloat2Int">floatFloat2Int</a>
+- <a href="#floatPower2">floatPower2</a>
 
 ## 题解
 
