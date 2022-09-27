@@ -2,7 +2,7 @@
 
 ### 汇编/机器语言总览
 
-![Figure 3.1](D:\Git_Projects\CSAPP\src\Figures\Figure 3.1.png)
+![Figure 3.1](..\src\Figures\Figure 3.1.png)
 
 ## 汇编语言特征
 
@@ -33,7 +33,7 @@
 
 ### x86-64 整数寄存器
 
-![Figure 3.2](D:\Git_Projects\CSAPP\src\Figures\Figure 3.2.png)
+![Figure 3.2](..\CSAPP\src\Figures\Figure 3.2.png)
 
 - %r：表示使用64位，%e：表示使用32位（历史遗留问题）
 - 旧机器可以访问%e当中的高低2字节，甚至可以访问低位的1字节
@@ -46,7 +46,7 @@
 
 ## 操作数指令符
 
-![Figure 3.4](D:\Git_Projects\CSAPP\src\Figures\Figure 3.4.png)
+![Figure 3.4](..\src\Figures\Figure 3.4.png)
 
 ## 操作符
 
@@ -58,7 +58,7 @@ mov_ Source, Dest
 
 - Combinations
 
-![Figure 3.3](D:\Git_Projects\CSAPP\src\Figures\Figure 3.3.png)
+![Figure 3.3](..\src\Figures\Figure 3.3.png)
 
 `Imm`：立即数
 
@@ -117,8 +117,8 @@ sal $2, %rax # return t << 2
 
 - 二元操作符
 
-![Figure 3.5](D:\Git_Projects\CSAPP\src\Figures\Figure 3.5.png)
+![Figure 3.5](..\src\Figures\Figure 3.5.png)
 
 - 一元操作符
 
-![Figure 3.6](D:\Git_Projects\CSAPP\src\Figures\Figure 3.6.png)
+![Figure 3.6](..\src\Figures\Figure 3.6.png)
