@@ -421,7 +421,7 @@ unsigned floatScale2(unsigned uf) {
   int result = (sgn << 31) | (exp << 23) | frac;
   return result;
 }
-/* 
+/*  
  * floatFloat2Int - Return bit-level equivalent of expression (int) f
  *   for floating point argument f.
  *   Argument is passed as unsigned int, but
