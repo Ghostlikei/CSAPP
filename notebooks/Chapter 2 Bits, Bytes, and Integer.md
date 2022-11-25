@@ -7,7 +7,7 @@
 - `~`: **Not**，补集
 - `^`: **Exclusive-Or**(异或)，差集
 
-![Figure 2.1](D:\Git_Projects\CSAPP\src\Figures\Figure 2.1.png)
+![Figure 2.1](..\src\Figures\Figure 2.1.png)
 
 - Contrast to Logical Operators
 
